@@ -11,3 +11,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@font-face {
+  font-family: 'TiltNeon';
+  src: url(../public/fonts/TiltNeon-Regular.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'RobotoSlab';
+  src: url(../public/fonts/RobotoSlab-Regular.ttf) format('truetype');
+}
